@@ -1,7 +1,7 @@
-#DECODIFICADOS: O código por trás do cotidiano
+# DECODIFICADOS: O código por trás do cotidiano
 
 
-#Descrição
+# Descrição
 Este repositório documenta a criação do primeiro episódio do podcast "Decodificados". O projeto foi desenvolvido como parte de uma avaliação de bootcamp de tecnologia e explora como a dupla de Dados e Inteligência Artificial molda nosso dia a dia. O roteiro foi inteiramente gerado por uma IA, com base em um prompt detalhado que especificava a persona de um roteirista experiente e a estrutura narrativa de Syd Field.
 
 #Temas Abordados no Episódio
@@ -16,19 +16,19 @@ Você pode ouvir o episódio completo no link abaixo:
 
 https://drive.google.com/file/d/1JFpRXsvl1ePwMSzGy2H2TAqm13vC6Pr0/view?usp=sharing
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 As seguintes categorias de ferramentas foram usadas na construção do projeto:
 
 IA para Geração de Roteiro: [Gemini]
 IA para Geração de Voz (Text-to-Speech): [ElevenLabs]
 Software de Edição de Áudio: [Audacity e Capcut]
 
-#Processo de Criação
+# Processo de Criação
 
 O projeto seguiu um fluxo de trabalho estruturado:
 Criação do Prompt: Foi elaborado um prompt detalhado para a IA, definindo a persona, o tema, a duração e restrições para evitar linguagem técnica.
 
-#PROMPT-ROTEIRO-PODCAST
+# PROMPT-ROTEIRO-PODCAST
 <PERSONA> 
 Você é um roteirista com larga experiência em produção de Podcast. 
 
@@ -63,7 +63,7 @@ Criar um roteiro seguindo a seguinte estrutura:
 •	Apresentador: Luiz Alberto 
 •	Duração Estimada: 4 minutos e 30 segundos
 
-#(INÍCIO)
+# (INÍCIO)
 (Trilha sonora de introdução: tema curto, moderno e instigante, que faz um fade out suave para o início da narração)
 # APRESENTADOR: (Tom claro, pausado e conversado)
 Olá. Pense na última música que o seu aplicativo recomendou. Naquele filme que apareceu na sua tela inicial como sugestão. Ou no caminho mais rápido que o seu GPS traçou para você hoje de manhã, desviando de um trânsito que você nem sabia que existia.
@@ -81,16 +81,16 @@ Ela olha para os milhões de blocos e percebe que "pessoas que gostaram da músi
 A IA não adivinha. Ela calcula probabilidades com base no imenso volume de dados que nós, coletivamente, fornecemos a cada segundo. É um motor alimentado por informação. Quanto mais dados de qualidade ela recebe, mais precisas e úteis se tornam suas conclusões.
 Essa é a parceria fundamental: os dados fornecem a matéria-prima, a experiência. A Inteligência Artificial fornece a capacidade de processar tudo isso e transformar em uma ação útil: uma recomendação, uma rota, uma resposta.
 
-#(ATO III - A RESOLUÇÃO)
+# (ATO III - A RESOLUÇÃO)
 APRESENTADOR: Portanto, da próxima vez que seu aplicativo de streaming acertar em cheio na sugestão de uma banda nova, você saberá o que aconteceu. Não foi um palpite.
 Foi o resultado de uma análise de padrões feita por uma IA, que usou como base os dados de comportamento de milhares ou milhões de pessoas com gostos parecidos com o seu.
 Não se trata de uma tecnologia do futuro ou de ficção científica. É uma ferramenta presente, prática e funcional. Uma dupla invisível que trabalha o tempo todo para conectar informação à necessidade. Os dados são o que aconteceu. A IA é o que nos ajuda a decidir o que fazer a seguir.
 (Trilha sonora de encerramento: tema principal sobe gradualmente)
 APRESENTADOR: Eu sou Luiz Alberto, e este foi o Decodificados. Até a próxima.
-#(FIM)
+# (FIM)
 
 # Conversão de Texto em Áudio: O roteiro final foi inserido em uma ferramenta de IA para gerar a narração com a voz do apresentador.
  ElevenLabs: https://elevenlabs.io/
 
 # Edição e Finalização: O áudio gerado foi combinado com uma trilha sonora de introdução e encerramento para criar o episódio final.
-CapCut: capcut.com/my-edit?from_page=landing_page
+
