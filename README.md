@@ -2,22 +2,29 @@
 <img 
     src="./assets/cover.png"
     width="300"
+/>
 </p>
 
 <p align="center">
-    <strong>Clique abaixo para ouvir uma prévia do podcast</strong>
-</p>
-<p align="center">
-    <a href="[[LINK PARA O SEU ÁUDIO NO SOUNDCLOUD OU OUTRO SERVIÇO](https://drive.google.com/file/d/1JFpRXsvl1ePwMSzGy2H2TAqm13vC6Pr0/view?usp=drive_link)">
-        <img src="https://img.shields.io/badge/Ouvir_o_Podcast-play_circle_filled-orange" alt="Ouvir o Podcast">
-    </a>
-</p>
+<a href="https://dio.me/">
+    <img 
+    >
+</a>
+  <img alt="Status" src="https://img.shields.io/badge/status-concluído-brightgreen">
+  <img alt="Formato" src="https://img.shields.io/badge/formato-MP3-red">
 <img 
     src="https://img.shields.io/badge/🔴_PodCast-FF5E72" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
 
+<p align="center">
+    preview do podcast
+    <div align="center">
+    <audio src="output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
+</div>
+
+</p>
 ## Projeto Podcast Gerado por I.A.s
 
 
