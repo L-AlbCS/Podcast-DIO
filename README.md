@@ -6,11 +6,13 @@
 </p>
 
 <p align="center">
-  <img 
-    >
-</a>
-  <img alt="Status" src="https://img.shields.io/badge/status-concluído-brightgreen">
-  <img alt="Formato" src="https://img.shields.io/badge/formato-MP3-red">
+    <strong>Clique abaixo para ouvir uma prévia do podcast</strong>
+</p>
+<p align="center">
+    <a href="[LINK PARA O SEU ÁUDIO NO SOUNDCLOUD OU OUTRO SERVIÇO]">
+        <img src="https://img.shields.io/badge/Ouvir_o_Podcast-play_circle_filled-orange" alt="Ouvir o Podcast">
+    </a>
+</p>
 <img 
     src="https://img.shields.io/badge/🔴_PodCast-FF5E72" 
     alt="🔴 LIVE CODE">
