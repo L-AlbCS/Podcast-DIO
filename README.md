@@ -1,1 +1,1 @@
-"Decodificandos: O código por trás do cotidiano"
+"Decodificados: O código por trás do cotidiano"
