@@ -20,11 +20,11 @@
 
 <p align="center">
     preview do podcast
-    <div align="center">
-    <audio src="output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
-</div>
-
 </p>
+
+<div align="center">
+    <audio src="output/Decodificados-Ep.01.MP3" controls title="Podcast editado"></audio>
+</div>
 ## Projeto Podcast Gerado por I.A.s
 
 
