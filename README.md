@@ -20,10 +20,10 @@
 <p align="center">
     Pré-visualização do Podcast
     <div align="center">
-    <audio src="./output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
+    <audio src="output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
 </div>
 </p>
-## Projeto Podcast Gerado por I.A.s
+## **Projeto Podcast Gerado por I.A.s**
 
 
  > ℹ️ **NOTAS:** Este é o repositório desenvolvido durante um Boot Camp oferrecido pela [DIO](https://dio.me)
