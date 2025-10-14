@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+<a href="https://dio.me/">
     <img 
     >
 </a>
@@ -19,11 +20,11 @@
 
 <p align="center">
     preview do podcast
-</p>
-
-<div align="center">
+    <div align="center">
     <audio src="output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
 </div>
+
+</p>
 ## Projeto Podcast Gerado por I.A.s
 
 
