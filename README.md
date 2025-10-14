@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
     <img 
     >
 </a>
