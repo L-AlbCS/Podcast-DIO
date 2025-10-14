@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
+ <img 
     >
 </a>
   <img alt="Status" src="https://img.shields.io/badge/status-concluído-brightgreen">
@@ -21,7 +20,7 @@
 <p align="center">
     preview do podcast
     <div align="center">
-    <audio src="output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
+    <audio src="./output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
 </div>
 
 </p>
