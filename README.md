@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Pré-visualização do Podcast
     <div align="center">
     <audio src="./output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
 </div>
