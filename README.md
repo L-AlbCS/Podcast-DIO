@@ -22,8 +22,6 @@
     <div align="center">
     <audio src="./output/Decodificados-Ep.01.mp3" controls title="Podcast editado"></audio>
 </div>
-<a href="[https://drive.google.com/file/d/1JFpRXsvl1ePwMSzGy2H2TAqm13vC6Pr0/view?usp=drive_link]">
-
 </p>
 ## Projeto Podcast Gerado por I.A.s
 
